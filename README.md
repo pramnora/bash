@@ -37,3 +37,5 @@ Hello, world!
 
 *NOTE*: Bash shell script files are saved using: filename.sh
 
+*NOTE*: In order to open up a new Terminal window into which you can type commands, the keyboard shortcut is: [CTRL]+[ALT]+[T]
+
