@@ -35,6 +35,8 @@ $ ./hw01.sh
 Hello, world!  
 ...warmest congratulations, you've just created your very first BASH shell script.  
 
+-----
+
 *NOTE*: Bash shell script files are saved using: filename.sh
 
 *NOTE*: In order to open up a new Terminal window into which you can type commands,  
