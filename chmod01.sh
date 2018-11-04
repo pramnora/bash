@@ -21,5 +21,6 @@
 sudo chmod 755 fileName.sh
 ./fileName.sh                   # this line makes the file run/execute
 
-# (NOTE: This file to be updated further; as a relatively 'new' Linux command line user;
-#        therefore, I'm still somewhat hazy about all of the finer details.) 
+# NOTE: Here is a very good YouTube video which explains Unix/Linux file permissions extremely well...
+        Linux File Permissions - Linux Tutorial 6/(YouTube Channel name: Guru99)
+        https://www.youtube.com/watch?v=D-VqgvBMV7g&t=314s
