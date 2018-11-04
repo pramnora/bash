@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Program files including Bash Scripts (.sh) are not necessarily instantly executable using Linux.
-# You may have to set file permissions, first.
+# Program files including Bash Scripts (.sh) are not necessarily instantly executable using Linux;
+# but, instead, you may have to set proper file permissions, first.
 
 # 3 letter file permissions are being given in this order: Owner/Group/Everyone (eg. nnnnnnnnn/rwxrwxrwx)
 
-# Altogether, there are 8 file numbers, each representing read/write/execute permissions (rwx)...
+# Altogether, there are 8 file numbers, each representing: (r)ead/(w)rite/e(x)ecute permissions/(rwx)...
 
 # 0 None                  ---
 # 1 Execute only          --x
