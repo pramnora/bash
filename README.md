@@ -57,7 +57,7 @@ Files which start with a period dot:(.) are not shown inside of a normal directo
 nano .bashrc - opens nano editor; and, lists the main 'editable' bash resource file  
 
 sudo apt-get update  
-sudo apt-get dist-update    
+sudo apt-get dist-upgrade      
 ...these are the two commands you would run, regularly, in order to keep your Linux distribution packages totally up to date.  
  
 sudo apt-get matchstick-keyboard - allows you to install a virtual keyboard; it appears inside of your Accessories folder once you reboot the machine...    
