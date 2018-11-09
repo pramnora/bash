@@ -62,4 +62,8 @@ sudo apt-get dist-upgrade
  
 sudo apt-get matchstick-keyboard - allows you to install a virtual keyboard; it appears inside of your Accessories folder once you reboot the machine...    
 sudo reboot now  
+sudo shutdown now  
 
+history - Shows the full listing of all commands you've typed in at the terminal  
+In order to see -(or, re-run)- the last command/(s) you typed in at the terminal just press either the 'up/down' keys.    
+The history limit of how many commands to store is set inside of the: .bashrc file; and, is set intially at: 1000  
