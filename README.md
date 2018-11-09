@@ -27,7 +27,9 @@ bash: ./hw01.sh: permission denied
 $ ls -al  
 ...it shows us that there is no execute permission [x] given to: hw01.sh  
 ...therefore, next, type in...after the $ prompt...  
-$ sudo chmod 755 hw01.sh  
+$ sudo chmod 755 hw01.sh 
+-(alternatively, you can also use...)-  
+$ sudo chmod u+x hw01.sh  
 ...the above makes the shell file executable...  
 ...now, type in the command to run the program, again:  
 $ ./hw01.sh  
@@ -37,7 +39,7 @@ Hello, world!
 
 -----
 
-*NOTE(S)*:-  
+## *NOTE(S)*:-  
 
 Bash, stands for Bourne Again Shell  
 Bash shell script files are saved using: filename.sh  
@@ -50,6 +52,14 @@ Clear - Clears the terminal screen
 [CTL]+[L] - Clears the terminal screen  
 alias cls="clear" - Allows you to use the Windows MS DOS Prompt command: CLS, to clear the terminal screen   
 It is recommended that you store all of your aliases inside of a file called: .bash_aliases  
-Files which start with a period dot:(.) are not shown inside of a nomral directory listing using: ls, command     
+Files which start with a period dot:(.) are not shown inside of a normal directory listing using: ls, command; instead, use: ls -al       
 
 nano .bashrc - opens nano editor; and, lists the main 'editable' bash resource file  
+
+sudo apt-get update  
+sudo apt-get dist-update    
+...these are the two commands you would run, regularly, in order to keep your Linux distribution packages totally up to date.  
+ 
+sudo apt-get matchstick-keyboard - allows you to install a virtual keyboard; it appears inside of your Accessories folder once you reboot the machine...    
+sudo reboot now  
+
