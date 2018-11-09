@@ -37,8 +37,17 @@ Hello, world!
 
 -----
 
-*NOTE*: Bash shell script files are saved using: filename.sh
+*NOTE(S)*:-  
 
-*NOTE*: In order to open up a new Terminal window into which you can type commands,  
-the keyboard shortcut is: [CTRL]+[ALT]+[T]
+Bash shell script files are saved using: filename.sh  
+Unix/Linux is case sensitive: abc is NOT ABC is NOT aBc is NOT Abc/-etc.   
 
+[CTRL]+[ALT]+[T], Opens a new terminal window  
+
+Clear - Clears the terminal screen  
+[CTL]+[L] - Clears the terminal screen  
+alias cls="clear" - Allows you to use the Windows MS DOS Prompt command: CLS, to clear the terminal screen   
+It is recommended that you store all of your aliases inside of a file called: .bash_aliases  
+Files which start with a period dot:(.) are not shown inside of a nomral directory listing using: ls, command     
+
+nano .bashrc - opens nano editor; and, lists the main 'editable' bash resource file  
