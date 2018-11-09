@@ -39,8 +39,10 @@ Hello, world!
 
 *NOTE(S)*:-  
 
+Bash, stands for Bourne Again Shell  
 Bash shell script files are saved using: filename.sh  
-Unix/Linux is case sensitive: abc is NOT ABC is NOT aBc is NOT Abc/-etc.   
+The first line in any Bash Shell Script file is: #!/bin/bash    
+Unix/Linux is case sensitive: abc is NOT ABC is NOT aBc is NOT Abc/-etc.     
 
 [CTRL]+[ALT]+[T], Opens a new terminal window  
 
