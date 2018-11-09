@@ -80,3 +80,7 @@ mkdir directoryName - creates a new folder directory
 rmdir directoryName - removes the folder directory  
 touch fileName - creates a text file  
 rm fileName - removes the text file  
+cat fileName - shows the file text on the terminal screen without running the program  
+nano fileName - opens the file for further editing inside of Nano text editor/[CTRL]+[X] to exit    
+vi fileName - opens the file for further editing inside of Vim text editor[:i] - insert mode/[:quit] to exit    
+ 
