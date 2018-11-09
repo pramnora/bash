@@ -67,3 +67,16 @@ sudo shutdown now
 history - Shows the full listing of all commands you've typed in at the terminal  
 In order to see -(or, re-run)- the last command/(s) you typed in at the terminal just press either the 'up/down' keys.    
 The history limit of how many commands to store is set inside of the: .bashrc file; and, is set intially at: 1000  
+
+-----
+
+### General commands
+
+pwd - print working directory, lists what is your current working directory       
+ls - lists all files inside of current directory    
+mv fileName1 fileName2 - renames a file  
+cp fileName1 fileName2 - copies a file  
+mkdir directoryName - creates a new folder directory    
+rmdir directoryName - removes the folder directory  
+touch fileName - creates a text file  
+rm fileName - removes the text file  
