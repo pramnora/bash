@@ -80,7 +80,7 @@ vi fileName - opens the file for further editing inside of Vim text editor[:i] -
 Filing...  
 
 cp fileName1 fileName2 - copies a file  
-cat fileName - display file contents / (without actually opening/or, running it)
+cat fileName - display file contents / (without actually opening/or, running it)  
 echo "text" > fileName - creates a file/and, writes to it (if file already exists/it will be over written)
 echo "text" >> fileName - appends text to the bottom of a file which already exists
 mv fileName1 fileName2 - renames a file   
