@@ -72,12 +72,12 @@ The history limit of how many commands to store is set inside of the: .bashrc fi
 
 ### General commands
 
-Editors...  
+*Editors...*  
 
 nano fileName - opens the file for further editing inside of Nano text editor/[CTRL]+[X] to exit    
 vi fileName - opens the file for further editing inside of Vim text editor[:i] - insert mode/[:quit] to exit  
 
-Filing...  
+*Filing...*  
 
 cp fileName1 fileName2 - copies a file  
 cat fileName - display file contents / (without actually opening/or, running it)  
@@ -87,7 +87,7 @@ mv fileName1 fileName2 - renames a file
 rm fileName - remove (delete) a file  
 touch fileName - creates a file / (without writing to it)   
 
-File Management...  
+*File Management...*  
 
 cd - takes you into the 'home' directory  
 cd dirName - takes you into the named directory  
