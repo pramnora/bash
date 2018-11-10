@@ -72,17 +72,25 @@ The history limit of how many commands to store is set inside of the: .bashrc fi
 
 ### General commands
 
+Editors...  
+
+nano fileName - opens the file for further editing inside of Nano text editor/[CTRL]+[X] to exit    
+vi fileName - opens the file for further editing inside of Vim text editor[:i] - insert mode/[:quit] to exit  
+
+Filing...  
+
+touch fileName - creates a text file    
+rm fileName - removes the text file  
+
+File Management...  
+
 pwd - print working directory, lists what is your current working directory       
 ls - lists all files inside of current directory    
 mv fileName1 fileName2 - renames a file  
 cp fileName1 fileName2 - copies a file  
 mkdir directoryName - creates a new folder directory    
 rmdir directoryName - removes the folder directory  
-touch fileName - creates a text file  
-rm fileName - removes the text file  
 cat fileName - shows the file text on the terminal screen without running the program  
-nano fileName - opens the file for further editing inside of Nano text editor/[CTRL]+[X] to exit    
-vi fileName - opens the file for further editing inside of Vim text editor[:i] - insert mode/[:quit] to exit  
 cd - takes you into the 'home' directory  
 cd dirName - takes you into the named directory  
 cd dirName/dirName - takes you into the sub-named directory    
