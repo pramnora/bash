@@ -22,7 +22,7 @@ echo "Overwrite file/Line 2" > test.txt
 cat test.txt
 
 # Append to file/by adding a single line of text to it at the bottom...
-echo "Append to file/Line 3" > test.txt
+echo "Append to file/Line 3" >> test.txt
 # Show file contents...
 cat test.txt
 
