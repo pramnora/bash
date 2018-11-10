@@ -79,22 +79,22 @@ vi fileName - opens the file for further editing inside of Vim text editor[:i] -
 
 Filing...  
 
-touch fileName - creates a text file    
-rm fileName - removes the text file  
+cp fileName1 fileName2 - copies a file  
+cat fileName - display file contents / (without actually opening/or, running it)
+echo "text" > fileName - creates a file/and, writes to it (if file already exists/it will be over written)
+echo "text" >> fileName - appends text to the bottom of a file which already exists
+mv fileName1 fileName2 - renames a file   
+rm fileName - remove (delete) a file  
+touch fileName - creates a file / (without writing to it)   
 
 File Management...  
 
-pwd - print working directory, lists what is your current working directory       
-ls - lists all files inside of current directory    
-mv fileName1 fileName2 - renames a file  
-cp fileName1 fileName2 - copies a file  
-mkdir directoryName - creates a new folder directory    
-rmdir directoryName - removes the folder directory  
-cat fileName - shows the file text on the terminal screen without running the program  
 cd - takes you into the 'home' directory  
 cd dirName - takes you into the named directory  
 cd dirName/dirName - takes you into the sub-named directory    
 cd .. - takes you back up through the directory    
 cd ../.. - takes you back up through the sub-directory      
-
- 
+ls - lists all files inside of current directory    
+mkdir directoryName - creates a new named folder directory    
+pwd - print working directory, lists what is your current working directory       
+rmdir directoryName - removes the named folder directory  
