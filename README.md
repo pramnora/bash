@@ -96,13 +96,13 @@ rm fileName --- remove (delete) a file
 *File Management...*  
 
 Traversing directories...  
-cd - takes you into the 'home' directory  
-cd dirName - takes you into the named directory  
-cd dirName/dirName - takes you into the sub-named directory    
-cd .. - takes you back up through the directory    
-cd ../.. - takes you back up through the sub-directory      
+cd --- takes you into the 'home' directory  
+cd dirName --- takes you into the named directory  
+cd dirName/dirName --- takes you into the sub-named directory    
+cd .. --- takes you back up through the directory    
+cd ../.. --- takes you back up through the sub-directory      
 Folder...  
-ls - lists all folders/files inside of current directory    
-mkdir directoryName - creates a new named folder directory    
-pwd - print working directory, lists what is your current working directory folder            
-rmdir directoryName - removes the named folder directory  
+ls --- lists all folders/files inside of current directory    
+mkdir directoryName --- creates a new named folder directory    
+pwd --- print working directory, lists what is your current working directory folder            
+rmdir directoryName --- removes the named folder directory  
