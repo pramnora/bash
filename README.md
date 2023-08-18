@@ -106,3 +106,13 @@ ls --- lists all folders/files inside of current directory
 mkdir directoryName --- creates a new named folder directory    
 pwd --- print working directory, lists what is your current working directory folder            
 rmdir directoryName --- removes the named folder directory  
+
+### Links...
+
+#### YouTube...
+
+Bash Scripting Tutorial for Beginners - (Channel: freeCodeCamp.org)  
+- https://www.youtube.com/watch?v=tK9Oc6AEnR4
+
+- 
+
