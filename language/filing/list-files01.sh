@@ -4,6 +4,10 @@
 
 ls
 
-# NOTE: NOT 'all' files will be listed here...; 
-#       such as files containing a prefix dot: . are 'hidden' system files;  
-#       in order to list all files use: ls -al
+# NOTE(1): NOT 'all' files will be listed here...; 
+#          such as files containing a prefix dot: . are 'hidden' system files;  
+#          in order to list all files use: ls -al
+
+# NOTE(2): It's also possible to list files inside of a different folder directory, as well; use...;  
+#          ls folderName  
+#          ...would list all files inside of the named folder directory.  
