@@ -5,7 +5,7 @@
 # current folder contains -> fileName1
 # sub folder: test -> empty
 
-move fileName1 test
+mv fileName1 test
 
 # after this command...
 # current folder contains -> empty
