@@ -37,4 +37,5 @@ rm fileName1
 #          then, it will delete ALL files beginning with the letter: f.   
 #          So, just make sure whenever you are using this short form...;    
 #          that you are absolutely certain that you wish to delete ALL files beginning with letter: f...;   
-#          because, once deleted...you cannot very easily retrieve or recover back such data...; it may be lost, forevermore...?!       
+#          because, once deleted...you cannot very easily retrieve or recover back such data...;   
+#          and, therefore, that data could be lost, quite simply, forevermore...?!       
