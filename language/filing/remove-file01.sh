@@ -32,8 +32,9 @@ rm fileName1
 #          You could also have used...the much simpler and straight forwards...    
 #          rm f*  
 #          ...but, WARNING this can be extremely dangerous...as it means remove ALL files beginning with the prefix letter: f;    
-#          the danger being that if you have many files beginning with f, such as...  
-#          filing1 friend fileName f-report;   
-#          then, it will delete ALL files beginning with f. So, just make sure when you are using this short form...;  
-#          that you are sure you wish to delete ALL files beginning with letter: f...;  
-#          because, once deleted...you cannot very easily retrieve or recover back such data...?!     
+#          the danger being that if you have many files beginning with f, such as:    
+#          filing1 friend fileName fileName2 fileName356 f-report  
+#          then, it will delete ALL files beginning with the letter: f.   
+#          So, just make sure whenever you are using this short form...;    
+#          that you are absolutely certain that you wish to delete ALL files beginning with letter: f...;   
+#          because, once deleted...you cannot very easily retrieve or recover back such data...; it may be lost, forevermore...?!       
