@@ -38,4 +38,13 @@ rm fileName1
 #          So, just make sure whenever you are using this short form...;    
 #          that you are absolutely certain that you wish to delete ALL files beginning with letter: f...;   
 #          because, once deleted...you cannot very easily retrieve or recover back such data...;   
-#          and, therefore, that data could be lost, quite simply, forevermore...?!       
+#          and, therefore, that data could be lost, quite simply, forevermore...?!     
+
+# NOTE(4): If you have only files inside of one same directory folder called:     
+#          fileName1 fileName2 fileName10 fileName100  
+#          -etc. Then, you can also use...   
+#          rm *   
+#          ...which will delete everything that is a file inside of the current directory folder.    
+#          Again, this extreme from of the rm command needs to be used with the utmost caution.  
+
+     
