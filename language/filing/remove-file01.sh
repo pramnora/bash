@@ -44,7 +44,8 @@ rm fileName1
 #          fileName1 fileName2 fileName10 fileName100  
 #          -etc. Then, you can also use...   
 #          rm *   
-#          ...which will delete everything that is a file inside of the current directory folder.    
-#          Again, this extreme form of the rm command needs to be used with the utmost caution.  
+#          ...which will delete everything that is a file inside of the current directory folder.      
+#          Again, this extreme form of the rm command needs to be used with the utmost caution...;    
+#          as it will remove ALL files...no matter what character their filename starts with.  
 
      
