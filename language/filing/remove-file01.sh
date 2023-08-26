@@ -45,6 +45,6 @@ rm fileName1
 #          -etc. Then, you can also use...   
 #          rm *   
 #          ...which will delete everything that is a file inside of the current directory folder.    
-#          Again, this extreme from of the rm command needs to be used with the utmost caution.  
+#          Again, this extreme form of the rm command needs to be used with the utmost caution.  
 
      
