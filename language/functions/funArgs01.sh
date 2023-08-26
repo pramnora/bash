@@ -6,6 +6,6 @@ function print(){
  # this function accepts 3 x parameter arguments... 
  echo $1 $2 $3
 }
-print Hi John Smith
+print Hi John Smith # ...make function call
 
 # NOTE: One calls the function without using the pair of circular brackets: ()
