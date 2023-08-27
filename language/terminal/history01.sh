@@ -4,6 +4,8 @@
 # these include both during the 'previous/current' sessions.  
 
 # -(So, if you close down a session...; by closing the CLI window...;    
-#   the history of all your previous commands does still remain there.)-  
+#   the history of all your previous commands does still remain there;   
+#   thus, it's possible for a system admin/or, sysops  
+#   to peruse through exactly what users have done on the system.)-      
 
 history  
