@@ -17,7 +17,9 @@ Beginning users tend to much prefer using, Nano, instead.
 -----
 
 As an example...in order to run the Vim editor...    
+
 >vim fileName  
+
 ...the Vim editor has 2 different modes: COMMAND MODE/INSERT MODE;  
 and, when it first loads up...you will find yourself being stuck in COMMAND MODE;  
 this means everything you type will NOT get sent to the screen...;  
@@ -30,6 +32,13 @@ The answer to that is...
 1> Press the [ESC] key  
 2> Press the colon (:) key  
 3> After colon type  
+
 >:wq  
+
 ...this will w>rite the file text you've typed in.../and, also, q>uit from out of the Vim editor environment.  
-  
+
+**NOTE**: If you decide you do NOT wish to save the changes you've made to a file; then, type...  
+
+>:q!
+
+...which will allow you to q>uit from out of the editor...without saving.  
