@@ -9,8 +9,27 @@ Vim/or, vi iMproved, is an update of the original vi editor.
 
 ## Introduction  
 
-Most Linux users seem to prefer using this editor over any others.  
+Most Linux users seem to prefer using this 'advanced' editor over any others.  
 
-However, for the beginner user, it can be very strange to user and get familar with, indeed;    
-beginning users tend to prefer using, Nano, instead.  
+However, for the 'beginner' user, it can be very strange to use and get familar with, indeed...?!        
+Beginning users tend to much prefer using, Nano, instead.   
 
+-----
+
+As an example...in order to run the Vim editor...    
+>vim fileName  
+...the Vim editor has 2 different modes: COMMAND MODE/INSERT MODE;  
+and, when it first loads up...you will find yourself being stuck in COMMAND MODE;  
+this means everything you type will NOT get sent to the screen...;  
+but, instead, you just hear some weird, and, highly frustrating typing error noises...?!  
+
+In order to get into INSERT MODE...you have to press key: 'i';   
+and, now, you can start typing in whatever text it is you want.    
+The problem, now, is how to quit from out of the editor...when you have finished typing...?    
+The answer to that is...    
+1> Press the [ESC] key  
+2> Press the colon (:) key  
+3> After colon type  
+>:wq  
+...this will w>rite the file text you've typed in.../and, also, q>uit from out of the Vim editor environment.  
+  
