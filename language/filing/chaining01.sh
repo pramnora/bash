@@ -2,9 +2,14 @@
 
 # Shows how to chain multiple commands together by using: '&&'...  
 
+#---------------------------------------------------------------------------------
+
 # NOTE: This example assumes that 'fileName' already exists inside of the current directory folder...   
 
 mkdir test && mv fileName
+
+# a folder called: test, is newly created
+# the file called: fileName, is moved into the newly created folder called: test
 
 #---------------------------------------------------------------------------------
 
