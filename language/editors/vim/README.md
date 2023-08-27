@@ -20,6 +20,9 @@ As an example...in order to run the Vim editor...
 
 >vim fileName  
 
+The 'vim' command...loads up the Vim file editor for usage.     
+if you add a 'fileName' after the Vim command...; then, that is the name of the file which you will be editing/saving.  
+
 ...the Vim editor has 2 different modes: COMMAND MODE/INSERT MODE;  
 and, when it first loads up...you will find yourself being stuck in COMMAND MODE;  
 this means everything you type will NOT get sent to the screen...;  
