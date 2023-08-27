@@ -23,13 +23,16 @@ As an example...in order to run the Vim editor...
 The 'vim' command...loads up the Vim file editor for usage.     
 if you add a 'fileName' after the Vim command...; then, that is the name of the file which you will be editing/saving.  
 
-...the Vim editor has 2 different modes: COMMAND MODE/INSERT MODE;  
-and, when it first loads up...you will find yourself being stuck in COMMAND MODE;  
-this means everything you type will NOT get sent to the screen...;  
-but, instead, you just hear some weird, and, highly frustrating typing error noises...?!  
+Though it's far from obvious, at first...;    
+the Vim editor has 2 different modes:  
+COMMAND MODE/INSERT MODE    
+...and, when it first loads up...you will find yourself being stuck in COMMAND MODE;  
+this means that everything you 'try' typing in...most frustratingly, will NOT get sent to the display screen...;        
+but, instead, you just hear some weird typing error noises...coming backi at you...?!  
 
-In order to get into INSERT MODE...you have to press key: 'i';   
-and, now, you can start typing in whatever text it is you want.    
+In order to get into INSERT MODE...  
+you have to press key: 'i';   
+...and, now, you can start typing in whatever text it is you want.    
 The problem, now, is how to quit from out of the editor...when you have finished typing...?    
 The answer to that is...    
 1> Press the [ESC] key  
