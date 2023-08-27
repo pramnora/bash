@@ -1,3 +1,6 @@
-#!/usr/bin/bash
-# Shows the history list of all terminal commands that were typed in, previously, during a single user session...
-history
+#!/usr/bin/bash  
+
+# Shows the previous history list of all terminal commands that the user had typed in...;  
+# these include both during the 'previous/current' sessions.  
+
+history  
