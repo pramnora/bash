@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+# show environment variables...
+env
