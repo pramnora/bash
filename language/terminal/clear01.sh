@@ -9,4 +9,4 @@ clear # clear's the terminal screen.../which is similar to CLS inside of Windows
 # and, it did NOT, quite simply, vanish.
 
 
-# NOTE(2): Another to clear the terminal screen is using keyboard shortcut: [CTRL] + [L]
+# NOTE(2): Another way to clear the terminal screen is using keyboard shortcut: [CTRL] + [L]
