@@ -42,3 +42,10 @@ The answer to that is...
 >:q!
 
 ...which will allow you to q>uit from out of the editor...without saving.  
+
+-----
+
+Here's a few more commands you can try when Vim editor is in COMMAND MODE...  
+
+:dd - deletes the current line the cursor is on  
+:set number - gives any code your write line numbers  
