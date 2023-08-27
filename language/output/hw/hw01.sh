@@ -1,2 +1,3 @@
 #!/usr/bin/bash
+# NOTE: Hello, world!...does NOT need any quote marks around it...
 echo Hello, world!
