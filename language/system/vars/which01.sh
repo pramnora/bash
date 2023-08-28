@@ -1,6 +1,6 @@
 #!/usr/bin/bash  
 
-# The which command can be used to search for where on the system an item is to be found...  
+# The which command can be used to search for where on the system a particular item is to be found...  
 
 which bash  # /usr/bin/bash
 which $BASH # /bin/bash
