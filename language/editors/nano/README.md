@@ -10,9 +10,9 @@
 For people who are 'beginners' to using Linux...;  
 then, using Nano text editor is pretty straight forwards, and, easy.  
 
->Nano fileName  
+>nano fileName  
 
-The Nano command loads up the file editor.  
+The 'nano' command loads up the file editor.  
 If you include a 'fileName' after the nano command...; then, that will be the current file we are editing/saving.  
 
 You can use the arrow keys to move/navigate around the text file, including:      
