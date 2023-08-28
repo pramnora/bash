@@ -28,5 +28,15 @@ such as how to:
 - [CTRL] + [X] to exit Nano text editor; next, type [Y] to keep changes you've made/or, [N] to lose those changes; finally, pressing [ENTER] key returns you back to the Linux CLI/Command Line Interface.     
 - Etc. 
 
+-----
+
+**NOTE**: It is very important, indeed, to be able to know how to use your text editor commands/keyboard short cuts really well;  
+          especially, if you are going to spend many endless hours and hours/days and days/weeks and weeks/-etc. using it;  
+          because, then, you will be able to produce work much more quickly and effectively.   
+ 
+          On the other hand, when you are struggling to learn how to use the editor...;   
+          this can prove to be a tremendous barrier in being willing to work using it...;   
+          as your production tends to slow down to become an absolute *crawl*...! 
+
 
  
