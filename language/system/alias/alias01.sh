@@ -30,5 +30,6 @@ dir
 
 # NOTE: These alias commands are only available to use within the users current session;    
 #       so, once the current user has logged out of the system...;   
-#       and, then, logs back in...; all of the aliases they previously went and created would have vanished...;      
+#       and, then, logs back in, again...;   
+#       all of the aliases they previously went and created would have vanished...;      
 #       and, they would need to re-create it, again.  
