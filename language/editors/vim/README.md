@@ -54,5 +54,11 @@ The answer to that is...
 
 Here's a few more commands you can try when Vim editor is in COMMAND MODE...  
 
+i - insert mode  
+a - append mode  
+
 :dd - deletes the current line the cursor is on  
-:set number - gives any code your write line numbers  
+:set number - gives any code your write line numbers    
+
+:wq - write/then, quit    
+:q! - quit, without saving  
