@@ -2,4 +2,4 @@
 
 # show what is the currently selected shell...  
 
-echo $SHELL  
+echo $SHELL  # /bin/bash
