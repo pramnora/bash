@@ -4,9 +4,10 @@
 
 which bash  # /usr/bin/bash
 which $BASH # /bin/bash
+which cal # /usr/bin/cal  
 which python3 # /usr/bin/python3
 
-# NOTE: If the item isn't found on the system; then, the response will be none...  
+# NOTE: If the item isn't found on the system/or else, is mis-spelled; then, the response will be none...  
 
 which python #  
 
