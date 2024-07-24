@@ -1,9 +1,12 @@
 # Bash Shell Scripting
+
 Bash shell scripting on Linux 
 
 Right near the end of Oct 2018, I went and brought myself a Raspberry Pi Model 3 B+ single board computer to go and experiment with learning. 
 
 This computer machine also comes equipped with running the Raspbian version of Linux OS/Operating System; the which OS also allows one to practice doing Bash Shell Scripting.
+
+Document last updated: *Wed 24 July 2024 03:54 AM GMT*  
 
 ## INSTRUCTIONS ON HOW TO CREATE YOU FIRST BASH SHELL SCRIPT
 
