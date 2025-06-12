@@ -1,5 +1,13 @@
 #!/bin/bash
+
+# Create file...
 touch fileName1.txt
+
+# List all folders/files in current directory...
 ls
+
+# Remove file...
 rm fileName1.txt
+
+# List all folders/files in current directory...
 ls
