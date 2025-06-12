@@ -25,6 +25,7 @@ rm fileName1.txt
 # --------------------------------------------------------
 
 # List all folders/files in current directory...;
-# including the newly 'removed' file above.
+# including the newly 'removed' file above...;
+# (which can no longer be seen, anymore).
 
 ls
