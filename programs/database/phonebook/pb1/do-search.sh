@@ -1,19 +1,13 @@
 #!/bin/bash
 
-# search to find a single word: 'Emergency'
+echo "Search text: Emergency"
 grep Emergency pb1.csv
 
-# search for 'emergency' as lower case (nil result/as E is capital)
+echo "Search text: emergency"  #(as lower case/nil result/as E is capital)
 grep emergency pb1.csv
 
-# search for 'emergency' using option ignore case: -i
+echo "Search text: 'emergency' using option ignore case: -i"
 grep -i emergency pb1.csv
 
-# search for 'emergency' using options ignore case/plus, show line number: -in
+echo "Search text: 'emergency' using options ignore case/plus, show line number>
 grep -in emergency pb1.csv
-
-
-
-
-
-
