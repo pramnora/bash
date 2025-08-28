@@ -1,9 +1,14 @@
 #!/bin/bash
 
-echo "Search text: Emergency"
+echo "Database entries:"
+echo "-----"
+cat pb1.csv
+echo "-----"
+
+echo "Search text: Emergency - NOTE: Uses an upper case: 'E'"
 grep Emergency pb1.csv
 
-echo "Search text: emergency"  #(as lower case/nil result/as E is capital)
+echo "Search text: emergency - NOTE: Uses a lower case: 'e'"
 grep emergency pb1.csv
 
 echo "Search text: 'emergency' using option ignore case: -i"
