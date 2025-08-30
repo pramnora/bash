@@ -9,5 +9,5 @@
 
 ### Program: 12 X Tables  
 
-![Source codeA](12xTables11.png "Source codeB")  
-![Output](12xTables2.png "Output")
+![Source code](12xTables11.png "This is what the typed in source code looks like...")  
+![Output](12xTables2.png "This what the actual output looks like when the source code is run...")
