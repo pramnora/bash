@@ -7,5 +7,5 @@
 
 ## Screenshots  
 
-Source code: [Source code](12xTables1.png)  
-Output: [Output](12xTables2.png)
+[Source code](12xTables1.png)  
+[Output](12xTables2.png)
