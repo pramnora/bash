@@ -9,5 +9,5 @@
 
 ### Program: 12 X Tables  
 
-![Source code](12xTables1.png "Source code")  
+![Source code](12xTables11.png "Source code")  
 ![Output](12xTables2.png "Output")
