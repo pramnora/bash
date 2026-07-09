@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This code borrowed from:
+# https://www.youtube.com/shorts/YjuH5JbJnno
+
 echo "Enter 2 numbers: "
 
 read num1
