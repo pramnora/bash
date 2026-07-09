@@ -11,7 +11,10 @@ echo "Enter 2 numbers to add:"
 read num1
 read num2
 
-echo `expr $num1 + $num2` # NOTE: The use of a pair of back ticks: ``
+# NOTE: The use of a pair of back ticks: ``;
+# to surround the sum expression.
+
+echo The answer is: `expr $num1 + $num2` 
 
 # output...
 
