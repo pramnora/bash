@@ -14,11 +14,15 @@ Eg.
 
 > grep Finance phonebook.txt    
 
-A real world example usage might be, I might have typed in a bash script command say days/weeks/months ago...;  
-but, most unfortunately, I've completely forgotten what was the exact command format to use.    
-Therefore, I now wish to go and look through command list **history**...; which can be very long....;  
-rather than keep on scrolling upwards and upwards...???  
-I just simply use 'grep' to find the lines that are relevant, instead.  
+## EXAMPLES
+
+### Example 1   
+
+A real world example usage might be, I might have typed in a bash script command say whole days/weeks/months ago...;    
+but, most unfortunately, I've now completely forgotten what was the exact command format I did previously use...?      
+Therefore, I now wish to go and looking through command list **history**...; which can be very long, indeed...;    
+rather than keep on scrolling endlessly *upwards and upwards*...???  
+I just simply use 'grep' to find the **history** file lines that are relevant, instead.  
 
 grep history source  
 
