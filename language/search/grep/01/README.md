@@ -120,7 +120,7 @@ grep history source
 Here, I'm using Grep command to discover how many o's there are in a admittedly *short* sentence.    
 But, note, of course, that sentence could also have been much longer.  
 
-![grep command in action:find 'o' in echo statement](pictures/110726-1730-grep-find-o.png "printout:grep in action: find o in echo statement)  
+![grep command in action:find 'o' in echo statement](pictures/110726-1730-grep-find-o.png "printout:grep in action: find o in echo statement")  
 
 -----
 
