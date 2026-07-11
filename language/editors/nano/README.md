@@ -1,7 +1,7 @@
 # Linux editor: Nano  
 
 **Created**: *Mon 28th Aug 2023 00:56 AM GMT*   
-**Updated**: *Mon 28th Aug 2023 00:56 AM GMT* 
+**Updated**: *Sat 11th Jul 2026 13:48 PM GMT* 
 
 -----
 
@@ -26,6 +26,7 @@ such as how to:
 - [ALT] + [6] to copy  
 - [CTRL] + [U] paste  
 - [CTRL] + [X] to exit Nano text editor; next, type [Y] to keep changes you've made/or, [N] to lose those changes; finally, pressing [ENTER] key returns you back to the Linux CLI/Command Line Interface.     
+- [CTRL] + [O] writes the file as output; and, next type [X] to exit from out of Nano editor.  
 - Etc. 
 
 -----
