@@ -119,26 +119,26 @@ grep history source
 
 4a.  
 
-Here, I'm using Grep command to discover how many o's there are in a admittedly *short* sentence.    
-But, note, of course, that sentence could also have been much longer.  
+Here, I'm using Grep command to discover how many o's there are in an admittedly *short* sentence;    
+but, note, of course, that sentence could also have been written out to be much longer.  
 
 ![grep command in action:find 'o' in echo statement](pictures/110726-1730-grep-find-o.png "printout:grep in action: find o in echo statement")  
 
 4b.  
 
-The same above file could be written as:  
+The same above file could be written as...this time using a variable to hold the text:    
 
 ![grep command in action:find 'o' in echo var statement](pictures/110726-1754-var-grep-o.png "printout:grep in action: find o in echo var statement")  
 
 4c.  
 
-A different variation...this time using grep command to query a file's data:  
+In this variation, a file is used to both write/store the text into...; then, the grep command is used to query that file's data:  
 
 ![grep command in action:find 'o' in text: [.txt] file](pictures/110726-1801-file-grep-o.png "printout:grep in action: find o in text: [.txt] file")  
 
 4d.  
 
-For a next variation I will open Linux text editor called: nano;  
+For a final variation I will open Linux text editor called: nano/   
 and, create a file called: sentences.txt;   
 which will be used to store multiple: 'Hello, world!'  
 
