@@ -39,6 +39,7 @@ to become a list of over 200+ names/phone numbers/categories.
 
 Rather than attempt to scroll down through the **full list**...;    
 just to find the information I *need*;  
+-(and, especially, it that information is near the botom of the list)-;  
 I call to the rescue: grep;  
 which will do the 'relevant' searching for me;  
 automatically, casting out any lines which *don't* match my chosen search criteria.       
@@ -57,31 +58,32 @@ The search query command goes as follows:
 
 > **Jane** Doe,4444 5555 6666,Family
 
-**NOTE** How the found word is, already, *highlighted* in **bold** text effect.  
+**NOTE**: How the found word is, already, *highlighted* in **bold** text effect.  
 
 ### Example 2
 
-I'd completely forgotten what was the exact name/version of my computer operating system.  
-So, in order to find this information, I use the command:  
+I might have completely forgotten what was the exact *name/version* of my computer operating system.    
+So, in order to find out this information, I use the command:  
 
 > hostnamectl  
 
 ![printout:hostnamectl](pictures/110726-1640-hostnamectl.png "printout:hostnamectl")  
 
-...which provides the relevant info; though, in long format.  
-Giving me much longer information than I really needed.  
+...which provides the relevant info; though, in **long** format;    
+giving me far more information than I do actually need.  
 
-To shorten this information down...; I choose to use Grep, instead.  
+To shorten this information down...; I choose to use the Grep command, instead.  
 
 > hostnamectl | grep "Operating System"  
 
 ![printout:grep-hostnamectl](pictures/110726-1642-grep-hostnamectl.png "printout:grep-hostnamectl")  
 
--(**NOTE:** In the above case you would already have to know that the words:   
+-(**NOTE:** In the above case, you would already have to know that the words:   
 **Operating System**    
-was already listed inside of the file: hostnamectl...; 
-otherwise, including the *wrong* search term would result in the information NOT being found.  
-However, once you've used: hostnamectl, before; then, this is a much *quicker* way to find the information you need.)-       
+was already included inside of the file: hostnamectl...;   
+otherwise, including the *wrong* search term would result in the information NOT being found.     
+However, once you've used: hostnamectl, before;  
+then, this is a much *quicker* way to find the precise information you need.)-         
 
 ### Example 3
 
