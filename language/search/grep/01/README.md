@@ -10,6 +10,8 @@ Grep, is a command which can be used to find either:
 
 The basic usage is 2 different forms of call:     
 
+A.
+
 grep wordOrWords2search4 filename.extension
 
 Eg.
@@ -22,10 +24,14 @@ Output result:
 
 ...additionally, it can be used to search to find data included inside of any other file format, too:  
 
-> grep word2search4 phonebook.txt    
-> grep word2search4 phonebook.json  
-> grep word2search4 phonebook.toml  
-> grep word2search4 phonebook.yml  
+> grep word2search4 filename.txt      
+> grep word2search4 filename.json   
+> grep word2search4 filename.toml   
+> grep word2search4 filename.yml  
+> grep word2search4 filename.xml  
+> grep word2search4 filename.html  
+...up to, and, including files without any *filename.extension*:   
+> grep word2search4 filename  
 
 ## EXAMPLES
 
