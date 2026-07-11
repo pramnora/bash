@@ -1,6 +1,7 @@
 # EXPlANATION of the Grep command  
 
-Grep, is a command which can be used to find either: 'a word/words/sentence/sentences' within a file.  
+Grep, is a command which can be used to find either:  
+'a word/words/sentence/sentences' within a file.  
 
 It's used in the form:  
 
@@ -8,17 +9,58 @@ grep wordOrWords2search4 filename.extension
 
 Eg.
 
-> grep Finance phonebook.csv  
+> grep NatWest phonebook.csv  
+
+Result:
+
+> Nat West, 0800 200 400, Bank
 
 ...but, it can be used to search to find words inside of any other file format, too:  
 
 > grep Finance phonebook.txt    
+> grep Finance phonebook.json
+> grep Finance phonebook.toml
+> grep Finance phonebook.yml  
+
 
 ## EXAMPLES
 
 ### Example 1   
 
-A real world example usage might be, I might have typed in a bash script command say whole days/weeks/months ago...;    
+A real world example usage might be...  
+
+I've created a simple [phone-numbers.csv] file;  
+I keep on adding more and more data to this phone numbers list  
+so that it, slowly, grows over time...;   
+to become a list of over 200+ names/phone numbers/categories.  
+
+Rather than attempt to scroll down through the full list...;    
+just to find the information I need;  
+I call to the rescue: grep;  
+which will do the 'relevant' searching for me;  
+casting out lines don't match my chosen search criteria.       
+
+> Name,Number,Category 
+> Emergency,999,Help
+> Nat West,0800 200 400,Bank
+> Humpty Dumpty,1111 222 3333,Friend
+> Jane Doe,4444 5555 6666,Family
+
+The search query command goes as follows:  
+
+> grep "Jane" phone-numbers.csv
+
+...output result...
+
+> **Jane** Doe,4444 5555 6666,Family
+
+
+
+
+
+### Example 2
+
+I might have typed in a bash script command say whole days/weeks/months ago...;    
 but, most unfortunately, I've now completely forgotten what was the exact command format I did previously use...?      
 Therefore, I now wish to go and looking through command list **history**...; which can be very long, indeed...;    
 rather than keep on scrolling endlessly *upwards and upwards*...???  
