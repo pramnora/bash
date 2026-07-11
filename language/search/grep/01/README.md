@@ -228,15 +228,17 @@ In this case, the web page file is called:
 
 I'm using this command to find the plain text(title):
 
-> grep webpage1.html title
+> grep title webpage1.html  
 
-and, then, I'm using this command to find the tag name(<title>):  
+...and, then, I'm using this command to find the tag name(<title>):  
+
+> grep "<title>" webpage1.html  
 
 ![grep: webpage1.html/source code](pictures/110726-2026-grep-webpage1.png "grep: webpage1.html/source code")   
 
 **NOTE**: Because, *bash* code itself uses chevrons: (<>);   
 therefore, in order to avoid any confusion between what is *bash* code/     
-and, code I'm actually searching for...;  
+and, *text* I'm actually searching for...;  
 therefore, it becomes necessary to place a pair of quote marks: ("") to go around the tag called: ("<title>");  
 then, the search works without any errors appearing inside of the output.    
 
