@@ -126,6 +126,9 @@ The same above file could be written as:
 
 ![grep command in action:find 'o' in echo var statement](pictures/110726-1754-var-grep-o.png "printout:grep in action: find o in echo var statement")  
 
+A different variation...this time using grep command to query a file's data:  
+
+![grep command in action:find 'o' in text: [.txt] file](pictures/110726-1801-file-grep-o.png "printout:grep in action: find o in text: [.txt] file")  
 
 -----
 
