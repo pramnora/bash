@@ -29,9 +29,10 @@ Result:
 
 A real world example usage might be...  
 
-I've created a simple [phone-numbers.csv] file;  
-I keep on adding more and more data to this phone numbers list  
-so that it, slowly, grows over time...;   
+I've created a simple comma separated values file called:   
+> phone-numbers.csv     
+I keep on adding more and more data to this phone numbers list   
+so that it, slowly, *grows* over time...;   
 to become a list of over 200+ names/phone numbers/categories.  
 
 Rather than attempt to scroll down through the full list...;    
@@ -54,7 +55,7 @@ The search query command goes as follows:
 
 > **Jane** Doe,4444 5555 6666,Family
 
-
+**NOTE** How the found word is, already, *highlighted* in **bold** text effect.  
 
 
 
