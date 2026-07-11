@@ -26,6 +26,8 @@ Additionally, it can be used to search to find data included inside of any other
 > grep searchTerm filename.(-etc.)   
 ...up to, and, including files without any *filename.extension*:   
 > grep searchTerm filename  
+...you can even search inside of *hidden* files/(*hidden* fileNames start with a period dot):      
+> grep searchTerm .filename    
 
 -----
 
