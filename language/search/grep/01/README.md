@@ -31,7 +31,7 @@ Additionally, it can be used to search to find data included inside of any other
 
 # GREP: BASIC USAGE  
 
-Grep's basic usage has 2 different forms:       
+Grep's basic usage has 3 different forms:       
 
 A.
 
@@ -57,12 +57,20 @@ Output result:
 
 > Nat West, 0800 200 400, Bank  
 
+C.
+
 **NOTE**: If there are multiple words being included inside of the search term,  
 that are separated by either a space/or, spaces...;  
 then, one has to include a pair of quote marks  
 to go around the multiple words being used to search for, eg.:     
 
 "word1 word2"  
+
+> cat phonebook.csv | grep "West, 0800"    
+
+Output result:  
+
+> Nat West, 0800 200 400, Bank  
 
 -----
 
