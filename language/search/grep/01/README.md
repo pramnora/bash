@@ -6,9 +6,23 @@ Grep, is a command which can be used to find either:
 - multiple words  
 - a sentence  
 - multiple sentences    
-...within a file.    
 
-The basic usage is 2 different forms of call:     
+...within a file.     
+
+Additionally, it can be used to search to find data included inside of any other file format, too:  
+
+> grep searchTerm filename.txt      
+> grep searchTerm filename.json   
+> grep searchTerm filename.toml   
+> grep searchTerm filename.yml  
+> grep searchTerm filename.xml  
+> grep searchTerm filename.html  
+...up to, and, including files without any *filename.extension*:   
+> grep searchTerm filename  
+
+# GREP: BASIC USAGE  
+
+Grep's basic usage has 2 different forms:       
 
 A.
 
@@ -22,16 +36,10 @@ Output result:
 
 > Nat West, 0800 200 400, Bank  
 
-...additionally, it can be used to search to find data included inside of any other file format, too:  
+B. 
 
-> grep searchTerm filename.txt      
-> grep searchTerm filename.json   
-> grep searchTerm filename.toml   
-> grep searchTerm filename.yml  
-> grep searchTerm filename.xml  
-> grep searchTerm filename.html  
-...up to, and, including files without any *filename.extension*:   
-> grep searchTerm filename  
+file | grep searchTerm   
+
 
 -----
 
