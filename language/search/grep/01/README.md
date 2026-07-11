@@ -40,11 +40,11 @@ I call to the rescue: grep;
 which will do the 'relevant' searching for me;  
 casting out lines don't match my chosen search criteria.       
 
-> Name,Number,Category 
-> Emergency,999,Help
-> Nat West,0800 200 400,Bank
-> Humpty Dumpty,1111 222 3333,Friend
-> Jane Doe,4444 5555 6666,Family
+> Name,Number,Category   
+> Emergency,999,Help  
+> Nat West,0800 200 400,Bank  
+> Humpty Dumpty,1111 222 3333,Friend  
+> Jane Doe,4444 5555 6666,Family  
 
 The search query command goes as follows:  
 
