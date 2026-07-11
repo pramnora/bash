@@ -117,14 +117,20 @@ grep history source
 
 ### Example 4
 
+4a.  
+
 Here, I'm using Grep command to discover how many o's there are in a admittedly *short* sentence.    
 But, note, of course, that sentence could also have been much longer.  
 
 ![grep command in action:find 'o' in echo statement](pictures/110726-1730-grep-find-o.png "printout:grep in action: find o in echo statement")  
 
+4b.  
+
 The same above file could be written as:  
 
 ![grep command in action:find 'o' in echo var statement](pictures/110726-1754-var-grep-o.png "printout:grep in action: find o in echo var statement")  
+
+4c.  
 
 A different variation...this time using grep command to query a file's data:  
 
@@ -135,6 +141,8 @@ and, create a file called: sentences.txt;
 which will be used to store multiple: 'Hello, world!'  
 
 ![open nano text editor with file: sentences.txt](pictures/110726-1813-open-nano-sentences-txt.png "open nano text editor with file: sentences.txt")   
+
+4d.  
 
 Next, I will type into Nano text editor 6 x 'Hello, world!';  
 and, afterwards, save the file using: [CTRL] + [O], then, [X] to exit Nano;    
