@@ -10,5 +10,6 @@ And, then, use a bash script to query/find certain specific data within that fil
 
 phonebook-query.sh
 
+![listing: phonebook-query.sh](pictures/110726-phonebook-query-sc.png "listing: phonebook-query.sh")
 
 
