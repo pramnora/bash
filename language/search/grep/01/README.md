@@ -66,12 +66,17 @@ So, I use the command:
 
 > hostnamectl  
 
+![printout:hostnamectl](pictures/110726-1640-hostnamectl.png "printout:hostnamectl")  
+
 ...which provides the relevant info; though, in long format.  
 Giving me much longer information than I really needed.
 
 To shorten this information down...; I choose to use Grep, instead.  
 
-> 
+> hostnamectl | grep "Operating System"
+
+![printout:grep-hostnamectl](pictures/110726-1642-grep-hostnamectl.png "printout:grep-hostnamectl")  
+
 
 
 
