@@ -28,10 +28,19 @@ phonebook-query.sh
 
 Grep, can be used to search for words/or, even, sentences within a file.  
 
-- To find just one single word...; then, you do NOT need to use quotes:  
+- To find just one single word...; then, you do NOT need to surround that word with a pair of double quotes:    
 
-> grep word
+> grep word filename.extension  
 
-- To find multiple words...; then, you would have to use quotes to go around the whole:  
+- To find multiple words, which have spaces showing in between them,  
+  then, you would have to use a pair of double quotes to go around the whole:  
 
-grep "two words"  
+> grep "two words" filename.extension   
+
+Grep, also, uses flags:  
+
+-i, means ignore case (the casing can be either lower/or, upper casing/or, even, mixed casing...and grep will find it, anyway)  
+
+-n, means show which line number(s) inside of the file that word has been found.    
+
+**NOTE**: It is also possible to combine flags together as: -in (both ignore case/and, show line numbers)  
