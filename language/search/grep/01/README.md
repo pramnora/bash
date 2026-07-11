@@ -1,3 +1,8 @@
+**Document Created**: *Sun 11 Jul 2026 19:41 PM GMT*  
+**Document Updated**: *Sun 11 Jul 2026 19:41 PM GMT*    
+
+-----
+
 # EXPLANATION of the Grep command  
 
 Grep, is a command which can be used to find either:    
