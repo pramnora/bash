@@ -144,7 +144,7 @@ and, return back to the Terminal 'black' screen.
 
 Finally, I will run the file; and, use Grep to interrogate it:    
 
-![grep: interrogate text file: sentences.txt](pictures/110726-1817-grep-6-sentences.png "grep: interrogate text file: sentences.txt")   
+![grep: interrogate text file: sentences.txt](pictures/110726-1834-grep-6-sentences.png "grep: interrogate text file: sentences.txt")   
 
 
 
