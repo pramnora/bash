@@ -47,15 +47,15 @@ Output result:
 
 B. 
 
-> textFile | grep searchTerm   
+> cat textFile | grep searchTerm   
 
 Eg.  
 
->  
+> cat phonebook.csv | grep searchTerm  
 
 Output result:  
 
-
+> Nat West, 0800 200 400, Bank  
 
 -----
 
