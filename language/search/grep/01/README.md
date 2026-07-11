@@ -22,6 +22,8 @@ Additionally, it can be used to search to find data included inside of any other
 ...up to, and, including files without any *filename.extension*:   
 > grep searchTerm filename  
 
+-----
+
 # GREP: BASIC USAGE  
 
 Grep's basic usage has 2 different forms:       
@@ -40,7 +42,14 @@ Output result:
 
 B. 
 
-file | grep searchTerm   
+> textFile | grep searchTerm   
+
+Eg.  
+
+>  
+
+Output result:  
+
 
 
 -----
