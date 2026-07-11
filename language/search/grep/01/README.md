@@ -212,6 +212,24 @@ The switch: -n, is used to display both the actual line number/plus, the line it
 
 -----
 
+### Example 5
+
+Grep used to interrogate program files/in this case, a HTML [.html] web page called:  
+
+> webpage1.html  
+
+![webpage1.html/source code](pictures/110726-2024-webpage1-sc.png "webpage1.html/source code")   
+ 
+I can then grep any line of that HTML webpage source code I choose:-  
+
+a. I can either include just plain text to search for: title  
+b. or, I can search to find a particular tag name: <title>  
+
+![grep: webpage1.html/source code](pictures/110726-2026-grep-webpage1.png "grep: webpage1.html/source code")   
+
+
+-----
+
 **Summary**
 
 Grep, can be used to search for words/or, even, sentences within a file.  
