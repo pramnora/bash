@@ -226,6 +226,9 @@ In this case, the web page file is called:
 
 ![webpage1.html/source code](pictures/110726-2024-webpage1-sc.png "webpage1.html/source code")   
 
+
+#### VERSION I
+
 I'm using this command to find the plain text(title):
 
 > grep title webpage1.html  
@@ -241,6 +244,9 @@ therefore, in order to avoid any confusion between what is *bash* code/
 and, *text* I'm actually searching for...;  
 therefore, it becomes necessary to place a pair of quote marks: ("") to go around the tag called: ("<title>");  
 then, the search works without any errors appearing inside of the output.    
+
+#### VERSION II
+
 
 -----
 
