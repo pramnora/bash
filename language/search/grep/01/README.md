@@ -57,7 +57,7 @@ Output result:
 
 > Nat West, 0800 200 400, Bank  
 
-**NOTE**: If there are multiple words being included in the search term,  
+**NOTE**: If there are multiple words being included inside of the search term,  
 that are separated by either a space/or, spaces...;  
 then, one has to include a pair of quote marks  
 to go around the multiple words being used to search for, eg.:     
