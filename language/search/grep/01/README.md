@@ -51,11 +51,16 @@ B.
 
 Eg.  
 
-> cat phonebook.csv | grep searchTerm  
+> cat phonebook.csv | grep NatWest    
 
 Output result:  
 
 > Nat West, 0800 200 400, Bank  
+
+**NOTE**: If there are multiple words being included in the search term, that are separated by a space/s....;  
+then, one has to use a pair of quote marks to go around the multiple words to search for, eg.:    
+
+"word1 word2"  
 
 -----
 
