@@ -249,7 +249,7 @@ then, the search works without any errors appearing inside of the output.
 
 ![grep: v2/webpage1.html/source code](pictures/110726-2135-v2-webpage1-sc.png "grep: v2/webpage1.html/source code")    
 
-![grep: v2/webpage1.html/output](pictures/110726-2137-v2-webpage1-sc.png "grep: v2/webpage1.html/output")   
+![grep: v2/webpage1.html/output](pictures/110726-2137-v2-webpage1-o.png "grep: v2/webpage1.html/output")   
 
 
 -----
