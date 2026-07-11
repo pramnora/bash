@@ -1,27 +1,31 @@
-# EXPlANATION of the Grep command  
+# EXPLANATION of the Grep command  
 
-Grep, is a command which can be used to find either:  
-'a word/words/sentence/sentences' within a file.  
+Grep, is a command which can be used to find either:    
+- a single character  
+- single word  
+- multiple words  
+- a sentence  
+- multiple sentences    
+...within a file.    
 
-It's used in the form:  
+The basic usage is 2 different forms of call:     
 
 grep wordOrWords2search4 filename.extension
 
 Eg.
 
-> grep NatWest phonebook.csv  
+> grep NatWest phonebook.csv   
 
-Result:
+Output result:  
 
-> Nat West, 0800 200 400, Bank
+> Nat West, 0800 200 400, Bank  
 
-...but, it can be used to search for words inside of any other file format, too:  
+...additionally, it can be used to search to find data included inside of any other file format, too:  
 
-> grep Finance phonebook.txt    
-> grep Finance phonebook.json
-> grep Finance phonebook.toml
-> grep Finance phonebook.yml  
-
+> grep word2search4 phonebook.txt    
+> grep word2search4 phonebook.json  
+> grep word2search4 phonebook.toml  
+> grep word2search4 phonebook.yml  
 
 ## EXAMPLES
 
