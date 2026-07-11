@@ -159,7 +159,7 @@ Finally, I will run the file; and, use Grep to interrogate it:
 The switch: -c, counts up the number of lines in which the searched for text letter: 'o' was found;    
 and, in this case, letter 'o' was found to be written on 6 separate lines.  
 
-The switch: -n, displays the number of lines in which each 'o' was found.  
+The switch: -n, is used to display both the actual line number/plus, the line itself.  
 
 -----
 
