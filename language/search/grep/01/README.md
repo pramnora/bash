@@ -77,10 +77,11 @@ To shorten this information down...; I choose to use Grep, instead.
 
 ![printout:grep-hostnamectl](pictures/110726-1642-grep-hostnamectl.png "printout:grep-hostnamectl")  
 
--(**NOTE:** In the above case you would already have to know that the words: **Operating System**    
-was inside of the file: hostnamectl...; otherwise, including the *wrong* search term...;   
-would result in the information NOT being found.)-    
-
+-(**NOTE:** In the above case you would already have to know that the words:   
+**Operating System**    
+was already listed inside of the file: hostnamectl...; 
+otherwise, including the *wrong* search term would result in the information NOT being found.  
+However, once you've used: hostnamectl, before; then, this is a much *quicker* way to find the information you need.)-       
 
 ### Example 3
 
