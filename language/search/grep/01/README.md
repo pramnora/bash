@@ -59,9 +59,23 @@ The search query command goes as follows:
 
 **NOTE** How the found word is, already, *highlighted* in **bold** text effect.  
 
-
-
 ### Example 2
+
+I've forgotten what is the exact name/and, version of my computer operating system.  
+So, I use the command:
+
+> hostnamectl  
+
+...which provides the relevant info; though, in long format.  
+Giving me much longer information than I really needed.
+
+To shorten this information down...; I choose to use Grep, instead.  
+
+> 
+
+
+
+### Example 3
 
 I might have typed in a bash script command say whole days/weeks/months ago...;    
 but, most unfortunately, I've now completely forgotten what was the exact command format I did previously use...?      
