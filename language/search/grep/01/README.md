@@ -146,7 +146,12 @@ Finally, I will run the file; and, use Grep to interrogate it:
 
 ![grep: interrogate text file: sentences.txt](pictures/110726-1834-grep-6-sentences.png "grep: interrogate text file: sentences.txt")   
 
+**NOTE**: 
 
+The switch: -c, counts up the number of lines in which the searched for text letter: 'o' was found;    
+and, in this case, letter 'o' was found to be written on 6 separate lines.  
+
+The switch: -n, displays the number of lines in which each 'o' was found.  
 
 -----
 
@@ -174,6 +179,11 @@ Grep, also, uses flags:
 -n, means show which line number(s) inside of the file that word has been found.    
 
 **NOTE**: It is also possible to combine flags together as: -in (both ignore case/and, show line numbers)  
+
+-c, counts up the number of lines which contained the search term.  
+
+-n, numbers each line in which the searched for term was found.  
+
 
 -----
 
