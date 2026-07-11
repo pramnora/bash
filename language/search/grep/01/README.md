@@ -105,6 +105,13 @@ I just simply use 'grep' to find the **history** file lines that are relevant, i
 
 grep history source  
 
+### Example 4
+
+Here, I'm using Grep command to discover how many o's there are in a admittedly *short* sentence.    
+But, note, of course, that sentence could also have been much longer.  
+
+![grep command in action:find 'o' in echo statement](pictures/110726-1730-gep-find-o.png "printout:grep in action: find o in echo statement)  
+
 -----
 
 **Summary**
