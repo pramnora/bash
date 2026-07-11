@@ -33,6 +33,8 @@ Additionally, it can be used to search to find data included inside of any other
 
 Grep's basic usage has 3 different forms:       
 
+-----
+
 A.
 
 grep searchTerm filename.extension
@@ -45,6 +47,8 @@ Output result:
 
 > **NatWest**, 0800 200 400, Bank  
 
+-----
+
 B. 
 
 > cat filename.extension | grep searchTerm   
@@ -56,6 +60,8 @@ Eg.
 Output result:  
 
 > Nat West, **0800** 200 400, Bank  
+
+-----
 
 C.
 
