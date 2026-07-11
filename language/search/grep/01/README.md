@@ -62,17 +62,17 @@ The search query command goes as follows:
 
 ### Example 2
 
-I might have completely forgotten what was the exact *name/version* of my computer operating system.    
-So, in order to find out this information, I use the command:  
+I might have completely forgotten what was the exact *name/version* of my computer operating system;  
+so, in order to find out this information, I use the command:    
 
 > hostnamectl  
 
 ![printout:hostnamectl](pictures/110726-1640-hostnamectl.png "printout:hostnamectl")  
 
-...which provides the relevant info; though, in **long** format;    
+...which provides the relevant info; though, in **long** listing format;    
 giving me far more information than I do actually need.  
 
-To shorten this information down...; I choose to use the Grep command, instead.  
+To *shorten* this information down...; I choose to use the Grep command, instead.  
 
 > hostnamectl | grep "Operating System"  
 
