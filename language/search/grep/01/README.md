@@ -130,6 +130,24 @@ A different variation...this time using grep command to query a file's data:
 
 ![grep command in action:find 'o' in text: [.txt] file](pictures/110726-1801-file-grep-o.png "printout:grep in action: find o in text: [.txt] file")  
 
+For a next variation I will open Linux text editor called: nano;  
+and, create a file called: sentences.txt;   
+which will be used to store multiple: 'Hello, world!'  
+
+![open nano text editor with file: sentences.txt](pictures/110726-1813-open-nano-sentences.png "open nano text editor with file: sentences.txt")   
+
+Next, I will type into Nano text editor 6 x 'Hello, world!';  
+and, afterwards, save the file using: [CTRL] + [O], then, [X] to exit Nano;    
+and, return back to the Terminal 'black' screen.    
+
+![use nano text editor to write 6 x Hello, world!](pictures/110726-1814-nano-hwx6.png "use Nano to write 6 x Hello, world!")   
+
+Finally, I will run the file; and, use Grep to interrogate it:    
+
+![grep: interrogate text file: sentences.txt](pictures/110726-1817-grep--sentences.png "grep: interrogate text file: sentences.txt")   
+
+
+
 -----
 
 **Summary**
