@@ -229,11 +229,11 @@ In this case, the web page file is called:
 
 #### VERSION I
 
-I'm using this command to find the plain text(title):
+Typing in *bash* commands at the Linux terminal, I used *grep* to find the plain text(title):
 
 > grep title webpage1.html  
 
-...and, then, I'm using this command to find the tag name(<title>):  
+...and, then, I'm using the *grep* command, again; but, this time to find the tag name(<title>):  
 
 > grep "<title>" webpage1.html  
 
@@ -246,6 +246,8 @@ therefore, it becomes necessary to place a pair of quote marks: ("") to go aroun
 then, the search works without any errors appearing inside of the output.    
 
 #### VERSION II
+
+In this version, I've saved the 'bash' commands into a text file called: webpage1.sh; which I can then run.  
 
 ![grep: v2/webpage1.html/source code](pictures/110726-2135-v2-webpage1-sc.png "grep: v2/webpage1.html/source code")    
 
