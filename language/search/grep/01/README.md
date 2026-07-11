@@ -15,7 +15,7 @@ Result:
 
 > Nat West, 0800 200 400, Bank
 
-...but, it can be used to search to find words inside of any other file format, too:  
+...but, it can be used to search for words inside of any other file format, too:  
 
 > grep Finance phonebook.txt    
 > grep Finance phonebook.json
@@ -29,7 +29,7 @@ Result:
 
 A real world example usage might be...  
 
-I've created a simple comma separated values file called:   
+I've created a simple comma separated values/[.csv] file called:   
 
 > phone-numbers.csv     
 
@@ -37,11 +37,11 @@ I keep on adding more and more data to this phone numbers list
 so that it, slowly, *grows* over time...;   
 to become a list of over 200+ names/phone numbers/categories.  
 
-Rather than attempt to scroll down through the full list...;    
-just to find the information I need;  
+Rather than attempt to scroll down through the **full list**...;    
+just to find the information I *need*;  
 I call to the rescue: grep;  
 which will do the 'relevant' searching for me;  
-casting out lines don't match my chosen search criteria.       
+automatically, casting out any lines which *don't* match my chosen search criteria.       
 
 > Name,Number,Category   
 > Emergency,999,Help  
