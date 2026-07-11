@@ -10,14 +10,14 @@ phonebook.csv
 
 ![listing: phonebook.csv](pictures/110726-phonebook-csv.sc.png "listing: phonebook.csv")  
 
-And, then, use a bash script to query/find certain specific data within that file:  
+Next, create a bash script to query/find certain specific data within that file, namely, the word: Finance     
 
 phonebook-query.sh  
 
-![listing: phonebook-query.sh](pictures/110726-phonebook-query-sc.png "listing: phonebook-query.sh")  
+![listing: phonebook-query.sh](pictures/110726-1433-phonebook-query-sh-sc.png "listing: phonebook-query.sh")  
 
 Next, run the file:   
 
 phonebook-query.sh  
 
-![run/output: phonebook-query.sh](pictures/110726-1409-phonebook-query-o.png "run/output: phonebook-query.sh")  
+![run/output: phonebook-query.sh](pictures/110726-1444-phonebook-query-o.png "run/output: phonebook-query.sh")  
