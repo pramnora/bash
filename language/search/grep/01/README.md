@@ -43,7 +43,7 @@ Eg.
 
 Output result:  
 
-> Nat West, 0800 200 400, Bank  
+> **NatWest**, 0800 200 400, Bank  
 
 B. 
 
@@ -51,11 +51,11 @@ B.
 
 Eg.  
 
-> cat phonebook.csv | grep NatWest    
+> cat phonebook.csv | grep 0800
 
 Output result:  
 
-> Nat West, 0800 200 400, Bank  
+> Nat West, **0800** 200 400, Bank  
 
 C.
 
@@ -70,7 +70,7 @@ to go around the multiple words being used to search for, eg.:
 
 Output result:  
 
-> Nat West, 0800 200 400, Bank  
+> Nat **West, 0800** 200 400, Bank  
 
 -----
 
