@@ -33,7 +33,11 @@ Output result:
 ...up to, and, including files without any *filename.extension*:   
 > grep word2search4 filename  
 
+-----
+
 ## EXAMPLES
+
+-----
 
 ### Example 1   
 
