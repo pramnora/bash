@@ -241,18 +241,21 @@ but, saved using a different file name extension than is the normal text filenam
 
 **NOTE**: The **grep** command can be used to interrogate *any* text based file.    
 
+-----
+
+#### VERSION I
+
 In this case, the web page file is called:  
 
 > webpage1.html  
 
-...and, here is it's underlying *source code*:   
+...and, here is it's underlying plain text *source code*:  
 
 ![webpage1.html/source code](pictures/110726-2024-webpage1-sc.png "webpage1.html/source code")   
 
+**NOTE**: The technical name for **program code**...; is also know as being called: *source code*.  
 
-#### VERSION I
-
-Typing in *bash* commands at the Linux terminal, I used *grep* to find the plain text(title):
+Typing in *bash* commands at the Linux terminal, I used *grep* to find the plain text(title):  
 
 > grep title webpage1.html  
 
@@ -267,6 +270,8 @@ therefore, in order to avoid any confusion between what is *bash* code/
 and, *text* I'm actually searching for...;  
 therefore, it becomes necessary to place a pair of quote marks: ("") to go around the tag called: ("<title>");  
 then, the search works without any errors appearing inside of the output.    
+
+-----
 
 #### VERSION II
 
