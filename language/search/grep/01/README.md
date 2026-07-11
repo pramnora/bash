@@ -39,7 +39,7 @@ to become a list of over 200+ names/phone numbers/categories.
 
 Rather than attempt to scroll down through the **full list**...;    
 just to find the information I *need*;  
--(and, especially, it that information is near the botom of the list)-;  
+-(and, especially, if that information is found near the very bottom of the list...???)-;  
 I call to the rescue: grep;  
 which will do the 'relevant' searching for me;  
 automatically, casting out any lines which *don't* match my chosen search criteria.       
