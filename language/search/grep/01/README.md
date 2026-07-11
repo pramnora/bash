@@ -214,9 +214,32 @@ The switch: -n, is used to display both the actual line number/plus, the line it
 
 ### Example 5: Interrogating through a web page HTML file  
 
+-----
+
 Grep, can be used to interrogate program files, as well.    
-Why? Because program files are just merely *text files*.    
-And, the **grep** command can be used to interrogate *any* text based file.    
+Why? Because program files are just merely *plain text* files...;    
+which have been saved using a particular program filename.extension:-  
+
+- filename.bas (BASIC program code file name extension)  
+- filename.bat (DOS batch file program code file name extension)  
+- filename.c (c program code file name extension)  
+- filename.cpp (c++ program code file name extension)  
+- filename.html (HTML web page program code file name extension)  
+- filename.java (Java program code file name extension)  
+- filename.lisp (Lisp program code file name extension)  
+- filename.pas (Pascal program code file name extension)  
+- filename.py (Python program code file name extension)  
+- filename.vbs (Visual BASIC Script program code file name extension)  
+- etc.  
+
+In each of the above cases; and, notably, without any exception to this one strict rule,    
+**all** program files are really just *plain text* files...;  
+but, saved using a different file name extension than is the normal text filename extension: [.txt]    
+
+- filename.txt (a plain text file/which is NOT a program file...;  
+  meaning, it just stores *plain text* inside/and, NOT program code)     
+
+**NOTE**: The **grep** command can be used to interrogate *any* text based file.    
 
 In this case, the web page file is called:  
 
