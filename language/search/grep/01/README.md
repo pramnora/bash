@@ -30,7 +30,9 @@ Result:
 A real world example usage might be...  
 
 I've created a simple comma separated values file called:   
+
 > phone-numbers.csv     
+
 I keep on adding more and more data to this phone numbers list   
 so that it, slowly, *grows* over time...;   
 to become a list of over 200+ names/phone numbers/categories.  
