@@ -68,7 +68,9 @@ C.
 **NOTE**: If there are multiple words being included inside of the search term,  
 that are separated by either a space/or, spaces...;  
 then, one has to include a pair of quote marks  
-to go around the multiple words being used to search for, eg.:     
+to go around the multiple words being used to search for.       
+
+Eg.  
 
 "word1 word2"  
 
