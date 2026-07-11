@@ -145,10 +145,10 @@ To *shorten* this information down...; I choose to use the Grep command, instead
 
 -(**NOTE:** In the above case, you would already have to know that the words:   
 **Operating System**    
-was already included inside of the file: hostnamectl...;   
+...was already included inside of the file: hostnamectl;     
 otherwise, including the *wrong* search term would result in the information NOT being found.     
 However, once you've used: hostnamectl, before;  
-then, this is a much *quicker* way to find the precise information you need.)-         
+then, this is a much *quicker* way to locate and find the precise information you need.)-         
 
 -----
 
