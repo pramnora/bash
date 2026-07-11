@@ -70,6 +70,8 @@ The search query command goes as follows:
 
 **NOTE**: How the found word is, already, *highlighted* in **bold** text effect.  
 
+-----
+
 ### Example 2
 
 I might have completely forgotten what was the exact *name/version* of my computer operating system;  
@@ -95,6 +97,8 @@ otherwise, including the *wrong* search term would result in the information NOT
 However, once you've used: hostnamectl, before;  
 then, this is a much *quicker* way to find the precise information you need.)-         
 
+-----
+
 ### Example 3
 
 I might have typed in a bash script command say whole days/weeks/months ago...;    
@@ -105,12 +109,14 @@ I just simply use 'grep' to find the **history** file lines that are relevant, i
 
 grep history source  
 
+-----
+
 ### Example 4
 
 Here, I'm using Grep command to discover how many o's there are in a admittedly *short* sentence.    
 But, note, of course, that sentence could also have been much longer.  
 
-![grep command in action:find 'o' in echo statement](pictures/110726-1730-gep-find-o.png "printout:grep in action: find o in echo statement)  
+![grep command in action:find 'o' in echo statement](pictures/110726-1730-grep-find-o.png "printout:grep in action: find o in echo statement)  
 
 -----
 
