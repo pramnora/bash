@@ -122,6 +122,11 @@ But, note, of course, that sentence could also have been much longer.
 
 ![grep command in action:find 'o' in echo statement](pictures/110726-1730-grep-find-o.png "printout:grep in action: find o in echo statement")  
 
+The same above file could be written as:  
+
+![grep command in action:find 'o' in echo var statement](pictures/110726-1747-var-grep-o.png "printout:grep in action: find o in echo var statement")  
+
+
 -----
 
 **Summary**
