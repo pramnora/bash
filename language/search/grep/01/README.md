@@ -281,7 +281,6 @@ In this version, I've saved the 'bash' commands into a text file called: webpage
 
 ![grep: v2/webpage1.html/output](pictures/110726-2137-v2-webpage1-o.png "grep: v2/webpage1.html/output")   
 
-
 -----
 
 **Summary**
@@ -351,7 +350,7 @@ If you wish to learn more...; then, I  would suggest you do a man -(manual)- pag
 
 ![command to call up man pages about how to use: grep](pictures/110726-2245-man-grep.png "command to call up man pages about how to use: grep")   
 
-![grep: man page1](pictures/110726-man-grep-page1.png "grep: man page1")   
+![grep: man page1](pictures/110726-man-grep-page-1.png "grep: man page1")   
 
 -----
 
