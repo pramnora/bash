@@ -88,7 +88,7 @@ Output result:
 
 -----
 
-### Example 1   
+### Example 1: Interrogating phonebook records stored in the form of a [.csv] file      
 
 A real world example usage might be...  
 
@@ -125,7 +125,7 @@ The search query command goes as follows:
 
 -----
 
-### Example 2
+### Example 2: Interrogating a Linux commandlet: hostnamectl  
 
 I might have completely forgotten what was the exact *name/version* of my computer operating system;  
 so, in order to find out this information, I use the command:    
@@ -152,7 +152,7 @@ then, this is a much *quicker* way to locate and find the precise information yo
 
 -----
 
-### Example 3
+### Example 3: Interrogating through command line *history*  
 
 I might have typed in a bash script command say whole days/weeks/months ago...;    
 but, most unfortunately, I've now completely forgotten what was the exact command format I did previously use...?      
@@ -164,7 +164,7 @@ grep history source
 
 -----
 
-### Example 4
+### Example 4: Interrogating a single sentence/or, even, multiple sentences  
 
 4a.  
 
@@ -212,7 +212,7 @@ The switch: -n, is used to display both the actual line number/plus, the line it
 
 -----
 
-### Example 5
+### Example 5: Interrogating through a web page HTML file  
 
 Grep, can be used to interrogate program files, as well.    
 Why? Because program files are just merely *text files*.    
