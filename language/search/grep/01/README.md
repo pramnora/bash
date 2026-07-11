@@ -47,7 +47,7 @@ Output result:
 
 B. 
 
-> cat textFile | grep searchTerm   
+> cat filename.extension | grep searchTerm   
 
 Eg.  
 
