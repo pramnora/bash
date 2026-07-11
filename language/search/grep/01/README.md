@@ -204,6 +204,8 @@ You could choose to search using...
 
 ...and, this would find *any* file beginning with the letter: p.../and, ending with the filename extension: .csv  
 
+-----
+
 **CONCLUSION**  
 
 The 'grep' command is a very powerful command when it comes to finding things such as text.  
@@ -222,7 +224,18 @@ If you wish to learn more...; then, I  would suggest you do a man -(manual)- pag
 
 -----
 
-# Demo: Use of the command: grep/plus, flags: -in
+# BASH Script: Demo: 1
+
+**NOTE**: This particular script is NOT yet fully finished...;     
+but, instead, is only just begin...I will add more parts to it, later on.  
+
+I wish to add...  
+- The user types in the name of the file they wish to query  
+- The user also types in the term they wish to use to do the query with.   
+...so, that the code can be run/used...without the end user needing to touch doing any coding themselves;  
+meaning anybody should be able to use/run it...without needing to know any code.       
+
+Use of the command: grep/plus, flags: -in
 
 Listing *all* files:  
 
