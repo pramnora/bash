@@ -1,5 +1,9 @@
 # Demo: Use of the command: grep/plus, flags: -in
 
+Listing *all* files:  
+
+![listing all files: phonebook.csv/phonebook-query.sh](pictures/110726-1402-file-listing.png "listing all files: phonebook.csv/phonebook-query.sh")   
+
 First, create a Comma Separated Values [.csv] file, called:  
 
 phonebook.csv   
