@@ -134,7 +134,7 @@ For a next variation I will open Linux text editor called: nano;
 and, create a file called: sentences.txt;   
 which will be used to store multiple: 'Hello, world!'  
 
-![open nano text editor with file: sentences.txt](pictures/110726-1813-open-nano-sentences.png "open nano text editor with file: sentences.txt")   
+![open nano text editor with file: sentences.txt](pictures/110726-1813-open-nano-sentences-txt.png "open nano text editor with file: sentences.txt")   
 
 Next, I will type into Nano text editor 6 x 'Hello, world!';  
 and, afterwards, save the file using: [CTRL] + [O], then, [X] to exit Nano;    
@@ -144,7 +144,7 @@ and, return back to the Terminal 'black' screen.
 
 Finally, I will run the file; and, use Grep to interrogate it:    
 
-![grep: interrogate text file: sentences.txt](pictures/110726-1817-grep--sentences.png "grep: interrogate text file: sentences.txt")   
+![grep: interrogate text file: sentences.txt](pictures/110726-1817-grep-6-sentences.png "grep: interrogate text file: sentences.txt")   
 
 
 
