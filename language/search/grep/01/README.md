@@ -21,3 +21,17 @@ Next, run the file:
 phonebook-query.sh  
 
 ![run/output: phonebook-query.sh](pictures/110726-1434-phonebook-query-o.png "run/output: phonebook-query.sh")  
+
+-----
+
+**Summary**
+
+Grep, can be used to search for words/or, even, sentences within a file.  
+
+- To find just one single word...; then, you do NOT need to use quotes:  
+
+> grep word
+
+- To find multiple words...; then, you would have to use quotes to go around the whole:  
+
+grep "two words"  
