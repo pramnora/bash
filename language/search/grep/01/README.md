@@ -214,19 +214,31 @@ The switch: -n, is used to display both the actual line number/plus, the line it
 
 ### Example 5
 
-Grep used to interrogate program files/in this case, a HTML [.html] web page called:  
+Grep, can be used to interrogate program files, as well.    
+Why? Because program files are just merely *text files*.    
+And, the **grep** command can be used to interrogate *any* text based file.    
+
+In this case, the web page file is called:  
 
 > webpage1.html  
 
-![webpage1.html/source code](pictures/110726-2024-webpage1-sc.png "webpage1.html/source code")   
- 
-I can then grep any line of that HTML webpage source code I choose:-  
+...and, here is it's underlying *source code*:   
 
-a. I can either include just plain text to search for: title  
-b. or, I can search to find a particular tag name: <title>  
+![webpage1.html/source code](pictures/110726-2024-webpage1-sc.png "webpage1.html/source code")   
+
+I'm using this command to find the plain text(title):
+
+> grep webpage1.html title
+
+and, then, I'm using this command to find the tag name(<title>):  
 
 ![grep: webpage1.html/source code](pictures/110726-2026-grep-webpage1.png "grep: webpage1.html/source code")   
 
+**NOTE**: Because, *bash* code itself uses chevrons: (<>);   
+therefore, in order to avoid any confusion between what is *bash* code/     
+and, code I'm actually searching for...;  
+therefore, it becomes necessary to place a pair of quote marks: ("") to go around the tag called: ("<title>");  
+then, the search works without any errors appearing inside of the output.    
 
 -----
 
