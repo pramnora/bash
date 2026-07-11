@@ -20,4 +20,4 @@ Next, run the file:
 
 phonebook-query.sh  
 
-![run/output: phonebook-query.sh](pictures/110726-1444-phonebook-query-o.png "run/output: phonebook-query.sh")  
+![run/output: phonebook-query.sh](pictures/110726-1434-phonebook-query-o.png "run/output: phonebook-query.sh")  
