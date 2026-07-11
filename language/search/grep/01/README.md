@@ -184,14 +184,11 @@ Grep, also, uses flags:
 
 -i, means ignore case (the casing can be either lower/or, upper casing/or, even, mixed casing...and grep will find it, anyway)  
 
--n, means show which line number(s) inside of the file that word has been found.    
+-n, means show both the line number/together with the actual line that was found.      
 
 **NOTE**: It is also possible to combine flags together as: -in (both ignore case/and, show line numbers)  
 
 -c, counts up the number of lines which contained the search term.  
-
--n, numbers each line in which the searched for term was found.  
-
 
 -----
 
@@ -207,6 +204,21 @@ You could choose to search using...
 
 ...and, this would find *any* file beginning with the letter: p.../and, ending with the filename extension: .csv  
 
+**CONCLUSION**  
+
+The 'grep' command is a very powerful command when it comes to finding things such as text.  
+
+There are many different variations on how it's possible to use it...; that is *limited* only by the users own 'imagination'...???  
+
+As a beginner to using this command myself...; therefore, I can only claim to have merely *scratched the surface* on how to use 'grep';    
+which means, that the examples included herein are not fully extensive at all; and, it's a guarantee that much has been left out.    
+
+Also, I've included only a few of the possible switches you can use with the 'grep' command, including: -i/-c/-n/;  
+but, I'm sure, there are many more switches, as well. 
+
+If you wish to learn more...; then, I  would suggest you do a man -(manual)- page search for:  
+
+> man grep
 
 -----
 
