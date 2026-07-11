@@ -11,12 +11,14 @@ Grep, is a command which can be used to find either:
 
 Additionally, it can be used to search to find data included inside of any other file format, too:  
 
-> grep searchTerm filename.txt      
+> grep searchTerm filename.data  
+> grep searchTerm filename.html    
 > grep searchTerm filename.json   
 > grep searchTerm filename.toml   
-> grep searchTerm filename.yml  
+> grep searchTerm filename.txt        
 > grep searchTerm filename.xml  
-> grep searchTerm filename.html  
+> grep searchTerm filename.yml  
+> grep searchTerm filename.(-etc.)   
 ...up to, and, including files without any *filename.extension*:   
 > grep searchTerm filename  
 
