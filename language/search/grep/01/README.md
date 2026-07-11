@@ -15,7 +15,7 @@ Next, create a bash script to query/find certain specific data within that file,
 phonebook-query.sh  
 
 ![listing: phonebook-query.sh](pictures/110726-1433-phonebook-query-sh-sc.png "listing: phonebook-query.sh")  
-
+https://github.com/pramnora/bash/edit/master/language/search/grep/01/README.md
 Next, run the file:   
 
 phonebook-query.sh  
@@ -37,6 +37,8 @@ Grep, can be used to search for words/or, even, sentences within a file.
 
 > grep "two words" filename.extension   
 
+**Flags**
+
 Grep, also, uses flags:  
 
 -i, means ignore case (the casing can be either lower/or, upper casing/or, even, mixed casing...and grep will find it, anyway)  
@@ -44,3 +46,15 @@ Grep, also, uses flags:
 -n, means show which line number(s) inside of the file that word has been found.    
 
 **NOTE**: It is also possible to combine flags together as: -in (both ignore case/and, show line numbers)  
+
+**Tips**  
+
+There is no need to keep on typing in the whole of the: filename.extension  
+
+In the case of a file called: phonebook.csv  
+ 
+You could choose to search using...  
+
+> grep word p*.csv  
+
+...and, this would find *any* file beginning with the letter: p.../and, ending with the filename extension: .csv  
