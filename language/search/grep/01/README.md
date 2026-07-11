@@ -61,23 +61,25 @@ The search query command goes as follows:
 
 ### Example 2
 
-I've forgotten what is the exact name/and, version of my computer operating system.  
-So, I use the command:
+I'd completely forgotten what was the exact name/version of my computer operating system.  
+So, in order to find this information, I use the command:  
 
 > hostnamectl  
 
 ![printout:hostnamectl](pictures/110726-1640-hostnamectl.png "printout:hostnamectl")  
 
 ...which provides the relevant info; though, in long format.  
-Giving me much longer information than I really needed.
+Giving me much longer information than I really needed.  
 
 To shorten this information down...; I choose to use Grep, instead.  
 
-> hostnamectl | grep "Operating System"
+> hostnamectl | grep "Operating System"  
 
 ![printout:grep-hostnamectl](pictures/110726-1642-grep-hostnamectl.png "printout:grep-hostnamectl")  
 
-
+-(**NOTE:** In the above case you would already have to know that the words: **Operating System**    
+was inside of the file: hostnamectl...; otherwise, including the *wrong* search term...;   
+would result in the information NOT being found.)-    
 
 
 ### Example 3
