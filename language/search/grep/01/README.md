@@ -1,5 +1,5 @@
 **Document created**: *Sat 11 Jul 2026 14:02 PM GMT*  
-**Document updated**: *Sat 11 Jul 2026 21:13 PM GMT*    
+**Document updated**: *Sat 11 Jul 2026 22:49 PM GMT*    
 
 -----
 
@@ -333,15 +333,25 @@ The 'grep' command is a very powerful command when it comes to finding things su
 
 There are many different variations on how it's possible to use it...; that is *limited* only by the users own 'imagination'...???  
 
-As a beginner to using this command myself...; therefore, I can only claim to have merely *scratched the surface* on how to use 'grep';    
-which means, that the examples included herein are not fully extensive at all; and, it's a guarantee that much has been left out.    
+As a *beginner* to using the *grep* command myself...; therefore, I can only claim to have merely *scratched the surface* here on how to use 'grep';    
+which means, that the examples included herein are not fully extensive at all; and, it's a guarantee that much has been left out.
 
-Also, I've included only a few of the possible switches you can use with the 'grep' command, including: -i/-c/-n/;  
-but, I'm sure, there are many more switches, as well. 
+DISCLAIMER: It's, quite likely, I may have included here a number of mistakes/    
+or, that the code has not been carefully, and, properly **optimised** as it should.    
 
-If you wish to learn more...; then, I  would suggest you do a man -(manual)- page search for:  
+Also, I've included only a few of the possible switches you can use with the 'grep' command, including:    
+
+> -i/-c/-n/    
+
+...but, I'm sure, there must be **loads** more switches to go find out about how to use...?     
+
+If you wish to learn more...; then, I  would suggest you do a man -(manual)- page search for:    
 
 > man grep
+
+![command to call up man pages about how to use: grep](pictures/110726-2245-man-grep.png "command to call up man pages about how to use: grep")   
+
+![grep: man page1](pictures/110726-man-grep-page1.png "grep: man page1")   
 
 -----
 
