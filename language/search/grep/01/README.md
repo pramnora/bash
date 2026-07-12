@@ -157,21 +157,25 @@ then, this is a much *quicker* way to locate and find the precise information yo
 Linux, stores a command line *history* of all the command you had typed in before.
 
 Sometimes, one might wish to query this command line *history* list...;  
-especially, if you forget the exact syntax you used before...;  
-and, can only partially remember it...?  
+especially, if you forget the exact syntax you had used before...;  
+and, maybe, can only partially remember it...?  
 
 history | grep uname  
 
 ![check command line history list for entry: uname](pictures/120726-1155-history-grep-uname.png "check command line history list for entry: uname")  
 
-What the above *output* is shows is...   
-Inside of the command line *history* it found on line number 1231/one entry for uname:     
+What the above *output* shows is...   
+Inside of the command line *history* list...; it found on line number: 1231/one entry for: uname     
 
 > 1231 uname  
 
-...and, it also found one more entry which was my 'latest' query:  
+...and, it also found...on line number: 2040/one more entry which was my 'latest' query:  
 
 > 2040 history | grep uname  
+
+**NOTE**: What the **uname** command, actually, does...is give the Unix name of the OS/Operating system.
+
+![command: 'uname' output](pictures/120726-1213-uname-o.png "command: 'uname' output")  
 
 -----
 
