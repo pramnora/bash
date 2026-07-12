@@ -164,6 +164,15 @@ history | grep uname
 
 ![check command line history list for entry: uname](pictures/120726-1155-history-grep-uname.png "check command line history list for entry: uname")  
 
+What the above *output* is shows is...   
+Inside of the command line *history* it found on line number 1231/one entry for uname:     
+
+> 1231 uname  
+
+...and, it also found one more entry which was my 'latest' query:  
+
+> 2040 history | grep uname  
+
 -----
 
 ### Example 4: Interrogating a single sentence/or, even, multiple sentences  
