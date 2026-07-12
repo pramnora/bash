@@ -1,5 +1,5 @@
 **Document created**: *Sat 11 Jul 2026 14:02 PM GMT*  
-**Document updated**: *Sat 11 Jul 2026 22:49 PM GMT*    
+**Document updated**: *Sat 12 Jul 2026 11:57 AM GMT*    
 
 -----
 
@@ -154,13 +154,15 @@ then, this is a much *quicker* way to locate and find the precise information yo
 
 ### Example 3: Interrogating through command line *history*  
 
-I might have typed in a bash script command say whole days/weeks/months ago...;    
-but, most unfortunately, I've now completely forgotten what was the exact command format I did previously use...?      
-Therefore, I now wish to go and looking through command list **history**...; which can be very long, indeed...;    
-rather than keep on scrolling endlessly *upwards and upwards*...???  
-I just simply use 'grep' to find the **history** file lines that are relevant, instead.  
+Linux, stores a command line *history* of all the command you had typed in before.
 
-grep history source  
+Sometimes, one might wish to query this command line *history* list...;  
+especially, if you forget the exact syntax you used before...;  
+and, can only partially remember it...?  
+
+history | grep uname  
+
+![check command line history list for entry: uname](pictures/120726-1155-history-grep-uname.png "check command line history list for entry: uname")  
 
 -----
 
