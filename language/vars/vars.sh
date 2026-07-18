@@ -11,3 +11,8 @@ echo "$varName"                  # Bash, expands the variable name: abc123
 echo "$greeting"                 # Bash, prints the sentence containing spaces in between words
 echo "${varName}_suffix"         # Bash, expands the variable name/and, adds the suffix text: abc123_suffix
 
+# NOTE: In order to make the variable expand...you need to prefix the variable name with a $...;
+# eg. 
+# $varName
+# ...or,...
+# ${varName}
