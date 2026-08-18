@@ -2,7 +2,6 @@
 
 # ---------------------------------------------------------------------------------------------------
 # This code was borrowed from here:-
-
 # YouTube...
 # Channel: Lecture Notes of Information Technology
 #   Title: Port Scanner Using Bash Scripting
