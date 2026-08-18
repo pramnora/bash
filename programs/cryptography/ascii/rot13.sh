@@ -16,7 +16,7 @@ echo
 echo "3. You use the letter which is located vertically either above/or, below to decode..."
 echo "p = c"
 echo "n = a"
-echo "b = o"
+echo "o = b"
 echo "...thus, encoded text: 'pno'...; becomes plaintext: 'cab'."
 
 # output...
